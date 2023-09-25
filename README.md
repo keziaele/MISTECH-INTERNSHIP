@@ -1,4 +1,4 @@
-# MISTECH-INTENSHIP
+# MISTECH-INTERNSHIP
 
 - [ ] **Learning Experience at MISTECH**
 
